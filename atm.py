@@ -570,7 +570,7 @@ class WithdrawPage(tk.Frame):
  
  
         heading_label = tk.Label(self,
-                                                     text='SECURITEX ATM',
+                                                     text='XM2 REGINLEIF BABKING',
                                                      font=('orbitron',45,'bold'),
                                                      foreground='#ffffff',
                                                      background='#5c3d3d')
@@ -707,7 +707,7 @@ class DepositPage(tk.Frame):
         self.controller = controller
  
         heading_label = tk.Label(self,
-                                                     text='SECURITEX ATM',
+                                                     text='XM2 REGINLEIF BANKING',
                                                      font=('orbitron',45,'bold'),
                                                      foreground='#ffffff',
                                                      background='#5c3d3d')
@@ -786,7 +786,7 @@ class BalancePage(tk.Frame):
  
  
         heading_label = tk.Label(self,
-                                                     text='SECURITEX ATM',
+                                                     text='XM2 REGINLEIF BANKING',
                                                      font=('orbitron',45,'bold'),
                                                      foreground='#ffffff',
                                                      background='#5c3d3d')
