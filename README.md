@@ -3,10 +3,10 @@ Python ATM Simulator for CPSC 254 Project.
 
 ## Team Members
 
-Johnathan Carranza 
+* Johnathan Carranza 
 
-Tasnima Chowdhury
+* Tasnima Chowdhury
 
-Preston Fawcett
+* Preston Fawcett
 
-Tommy Nguyen
+* Tommy Nguyen
